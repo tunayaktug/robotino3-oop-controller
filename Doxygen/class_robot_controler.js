@@ -1,0 +1,27 @@
+var class_robot_controler =
+[
+    [ "RobotControler", "class_robot_controler.html#ad7aef9e643dd3e1944c438dbe6d5809c", null ],
+    [ "RobotControler", "class_robot_controler.html#a3af69bb584daa40001028f6c06716343", null ],
+    [ "~RobotControler", "class_robot_controler.html#ae93d0e5ef173cd2425842546b6aa6d93", null ],
+    [ "addSensor", "class_robot_controler.html#a3cf820466f12a6d124aef10319d77a53", null ],
+    [ "closeAccess", "class_robot_controler.html#ab02c99d86e3ac0889323f265b52495b5", null ],
+    [ "connectRobot", "class_robot_controler.html#a1ce9a8d2c412702047a944081ea68160", null ],
+    [ "disconnectRobot", "class_robot_controler.html#a2db243aa549d95ebd7c9a38b78c41bb2", null ],
+    [ "getPose", "class_robot_controler.html#a75f1a4d93d5d1df59c8b3cff1465c420", null ],
+    [ "isAccessGranted", "class_robot_controler.html#a3e628110326e4475c5fc7abbef5ba69d", null ],
+    [ "isConnected", "class_robot_controler.html#a5e07e8a7e5321ef25e128e978381bbb8", null ],
+    [ "moveBackward", "class_robot_controler.html#ac9a73acd56221bc8d87c1830e35a322e", null ],
+    [ "moveForward", "class_robot_controler.html#ad8d95d09a86124b2a097ef6c8866c1fa", null ],
+    [ "moveLeft", "class_robot_controler.html#a1d514ae414d5bbad3be9fac2504b3350", null ],
+    [ "moveRight", "class_robot_controler.html#a4685389fb051fc95f71a6fdf74a5cc8e", null ],
+    [ "openAccess", "class_robot_controler.html#a5b2e2097959a66b4e599dfcfe8b1fe7a", null ],
+    [ "print", "class_robot_controler.html#a240b2e253007a8791d52df85a32e18e0", null ],
+    [ "stop", "class_robot_controler.html#a0a28ed96f57424d6cb87f6bba62ea7f9", null ],
+    [ "turnLeft", "class_robot_controler.html#acaef6de9e0dc30b79f6a707bbcaffe19", null ],
+    [ "turnRight", "class_robot_controler.html#a678c257c350d46041cf29b91a7fc9d29", null ],
+    [ "updateSensors", "class_robot_controler.html#a7206e638b0392ebfe80bba2407caa0ca", null ],
+    [ "accessGranted", "class_robot_controler.html#ad57e9aab525147e1930ecf350e01cf1c", null ],
+    [ "robot", "class_robot_controler.html#ae39ef2f2be5c9c067a08ea12071fb060", null ],
+    [ "robotOperator", "class_robot_controler.html#af3e733fffaf9a496fe075f60548dc1b8", null ],
+    [ "sensorList", "class_robot_controler.html#a84c9a65d45c9e10c668b4a4cffaf8231", null ]
+];

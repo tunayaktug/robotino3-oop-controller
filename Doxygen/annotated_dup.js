@@ -1,0 +1,25 @@
+var annotated_dup =
+[
+    [ "AccessMenu", "class_access_menu.html", "class_access_menu" ],
+    [ "ConnectionMenu", "class_connection_menu.html", "class_connection_menu" ],
+    [ "Encryption", "class_encryption.html", "class_encryption" ],
+    [ "FestoRobotAPI", "class_festo_robot_a_p_i.html", "class_festo_robot_a_p_i" ],
+    [ "FestoRobotInterface", "class_festo_robot_interface.html", "class_festo_robot_interface" ],
+    [ "FestoRobotSensorInterface", "class_festo_robot_sensor_interface.html", "class_festo_robot_sensor_interface" ],
+    [ "IRSensor", "class_i_r_sensor.html", "class_i_r_sensor" ],
+    [ "LidarSensor", "class_lidar_sensor.html", "class_lidar_sensor" ],
+    [ "MainMenu", "class_main_menu.html", "class_main_menu" ],
+    [ "MAP", "class_m_a_p.html", "class_m_a_p" ],
+    [ "Mapper", "class_mapper.html", "class_mapper" ],
+    [ "Menu", "class_menu.html", "class_menu" ],
+    [ "MotionMenu", "class_motion_menu.html", "class_motion_menu" ],
+    [ "Point", "class_point.html", "class_point" ],
+    [ "Pose", "class_pose.html", "class_pose" ],
+    [ "Record", "class_record.html", "class_record" ],
+    [ "RobotControler", "class_robot_controler.html", "class_robot_controler" ],
+    [ "RobotInterface", "class_robot_interface.html", "class_robot_interface" ],
+    [ "RobotOperator", "class_robot_operator.html", "class_robot_operator" ],
+    [ "SafeNavigation", "class_safe_navigation.html", "class_safe_navigation" ],
+    [ "SensorInterface", "class_sensor_interface.html", "class_sensor_interface" ],
+    [ "SensorMenu", "class_sensor_menu.html", "class_sensor_menu" ]
+];
