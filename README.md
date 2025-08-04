@@ -11,7 +11,7 @@ Via a console menu you can
 
 `RobotInterface` and `SensorInterface` layers let you swap in new robots or sensors with minimal effort, bringing motion control, perception, mapping and security together in one modular C++17 framework.
 
-## 🚀 Feature Matrix – Menu-to-Class Mapping
+## Feature Matrix – Menu-to-Class Mapping
 
 | Category    | Detailed Functions (matching menu items)                                   | Key Classes / Flow                                     | Menu Entry            |
 |-------------|----------------------------------------------------------------------------|---------------------------------------------------------|-----------------------|
@@ -113,7 +113,7 @@ Every command first calls RobotController::isAccessGranted() for verification.
 
 After selecting Close Access, all robot commands are blocked and the program exits safely.
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1 – UML Diagram
 <div align="center">
@@ -179,7 +179,7 @@ After selecting Close Access, all robot commands are blocked and the program exi
 </div>
 
 
-## 📌 Notes
+## Notes
 * `FestoRobotAPI.dll` must sit next to the executable.  
 * Obstacle threshold (`OBSTACLE_THRESHOLD = 0.18 m`) and speeds are in `SafeNavigation.h`.  
 * To add a new sensor → derive `UltrasonicSensor : public SensorInterface` and implement `getSensorType()`.
